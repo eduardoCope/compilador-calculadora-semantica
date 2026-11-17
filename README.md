@@ -1,2 +1,7 @@
-# compilador-calculadora-s-mantica
-Calculadora com Analisador léxico, Analisador sintático e Analisador semântico realizado como projeto para a aula de Compiladores
+# Calculadora com:
+-Analisador léxico (biblioteca lex)
+-Analisador sintático (biblioteca yacc)
+-Analisador semântico
+-Capaz de resolver as equações matemáticas:
+Soma, subtração, divisão, multiplicação, Potenciação e radiciação
+
